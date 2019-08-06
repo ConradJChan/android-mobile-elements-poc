@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mobile Elements POC</string>
+    <string name="title_preview">Preview</string>
+    <string name="title_webview_activity">Webview activity</string>
+    <string name="file_id_hint">File ID</string>
+    <string name="token_hint">Token</string>
+    <string name="submit">Submit</string>
+</resources>
